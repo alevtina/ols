@@ -44,5 +44,7 @@ The following is a list of past webinar sessions, with links to to the recording
 * 2015-07-09: **Teaching OneSearch**
 * 2015-06-18: **Let's Talk About OneSearch!**
 
-\* Please note that the Office of Library Services has limited storage capacity on the WebEx server. If you see a presentation you'd like to view, please download it to your computer for posterity because it may be gone the next time you try to view it!
+{% hint style="warning" %}
+Please note that the Office of Library Services has limited storage capacity on the WebEx server. If you see a presentation you'd like to view, please download it to your computer for posterity because it may be gone the next time you try to view it!
+{% endhint %}
 
